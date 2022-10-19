@@ -4,7 +4,7 @@ body{
 }
 
 .top-container{
-  height: 550px;
+  height: 600px;
   background-color:#E8DFCA ;
 }
 h1{
@@ -23,8 +23,8 @@ h1{
 }
 
 .top-cloud{
-  right: 180px;
-  top: 10px;
+   margin-left:50%;
+  margin-top: 10px;
 }
 
 .bottom-cloud{
